@@ -8,3 +8,4 @@ var clockTime = hours + ':' + minutes + ':' + seconds + " " ;
 
 }
 setInterval(showTime,1000);
+console.log("new add")
